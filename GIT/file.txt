@@ -2,3 +2,15 @@
 
 1. Clone a project
 git clone <project_url>
+
+2. Check the status of change 
+git status
+
+3. Add files to the git
+git add .
+
+4 Add commit message
+git commit -m <"commit message">
+
+5. Push the change to github
+git push -u origin <brnach_name>
