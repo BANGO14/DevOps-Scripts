@@ -14,3 +14,12 @@ git commit -m <"commit message">
 
 5. Push the change to github
 git push -u origin <brnach_name>
+
+6. Create a branch and checkout to branch
+git checkout -b <branch_name_to_created>
+
+7. To list the branches
+git branch
+
+8. Checkout to an existing branch
+git checkout <branch_name>
